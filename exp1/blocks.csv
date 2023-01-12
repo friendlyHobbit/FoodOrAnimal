@@ -1,0 +1,19 @@
+trial_id,task_inst,stim,count_ques,corr_answer
+t01,instructions\count_animals.png,stimuli\cats_bread_1_1920x1080.jpg,How many pictures with animals did you count?,8
+t02,instructions\count_animals.png,stimuli\cats_bread_2_1920x1080.jpg,How many pictures with animals did you count?,8
+t03,instructions\count_animals.png,stimuli\cats_ice_cream_1920x1080.jpg,How many pictures with animals did you count?,8
+t04,instructions\count_animals.png,stimuli\dog_bagel_1920x1080.jpg,How many pictures with animals did you count?,8
+t05,instructions\count_animals.png,stimuli\dog_ice_cream_1920x1080.jpg,How many pictures with animals did you count?,8
+t06,instructions\count_animals.png,stimuli\dog_KFC_1920x1080.jpg,How many pictures with animals did you count?,8
+t07,instructions\count_animals.png,stimuli\dog_toast_1920x1080.jpg,How many pictures with animals did you count?,8
+t08,instructions\count_animals.png,stimuli\owl_apple_1920x1080.jpg,How many pictures with animals did you count?,8
+t09,instructions\count_animals.png,stimuli\sloth_bread_1920x1080.jpg,How many pictures with animals did you count?,8
+t10,instructions\count_food.png,stimuli\cats_bread_1_1920x1080.jpg,How many pictures with food items did you count?,8
+t11,instructions\count_food.png,stimuli\cats_bread_2_1920x1080.jpg,How many pictures with food items did you count?,8
+t12,instructions\count_food.png,stimuli\cats_ice_cream_1920x1080.jpg,How many pictures with food items did you count?,8
+t13,instructions\count_food.png,stimuli\dog_bagel_1920x1080.jpg,How many pictures with food items did you count?,8
+t14,instructions\count_food.png,stimuli\dog_ice_cream_1920x1080.jpg,How many pictures with food items did you count?,8
+t15,instructions\count_food.png,stimuli\dog_KFC_1920x1080.jpg,How many pictures with food items did you count?,8
+t16,instructions\count_food.png,stimuli\dog_toast_1920x1080.jpg,How many pictures with food items did you count?,8
+t17,instructions\count_food.png,stimuli\owl_apple_1920x1080.jpg,How many pictures with food items did you count?,8
+t18,instructions\count_food.png,stimuli\sloth_bread_1920x1080.jpg,How many pictures with food items did you count?,8
